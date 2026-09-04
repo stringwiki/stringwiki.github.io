@@ -75,7 +75,7 @@ Steklov Mathematical Institute, Moscow (Russia), 7-12 December 2026
 [Beyond Lorentzian Geometry III](https://indico.ph.ed.ac.uk/event/431/)    
 Edinburgh (UK), 7-9 December 2026
 
-[LACES 2026](https://www.ggi.infn.it/laces/LACES26/index26.html)  
+[LACES 2026](https://www.ggi.infn.it/single-school.php?id=566)  
 GGI, Florence (Italy), 23 November - 11 December 2026
 
 [Worldsheet String Theory and String Field Theory](https://www.icts.res.in/program/wstsft)  
