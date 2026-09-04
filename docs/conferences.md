@@ -84,6 +84,9 @@ ICTS, Bengaluru (India), 9-20 November 2026
 [Relativity Reframed: Quantum Reference Frames and Gravity](https://events.perimeterinstitute.ca/event/2058/)  
 Perimeter Institute for Theoretical Physics, Toronto (Canada), 26-30 October 2026
 
+[Leinweber Network Workshop: Quantum Black Holes](https://indico.global/event/18651/)
+Leinweber Institute for Theoretical Physics, University of Michigan, Ann Arbor (USA), 10-13 October 2026
+
 [Adriatic Doctoral School - Courses For Theorists](https://event.fourwaves.com/ads-cft-crodave/pages)  
 Split, Croatia, 4-11 October 2026
 
