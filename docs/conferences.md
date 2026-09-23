@@ -9,7 +9,7 @@ title: 'Conferences'
 [Gravitational Path Integrals and Finite-N Holography](https://www.kitp.ucsb.edu/activities/pathintegrals27)  
 KITP, UC Santa Barbara (USA), 27 September - 17 December 2027
 
-Supergravity 2027
+Supergravity 2027    
 Padova (Italy), 22-24 September 2027
 
 Strings 2027  
