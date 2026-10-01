@@ -33,6 +33,12 @@ Bernoulli Center for Fundamental Studies, EPFL (Lausanne, Switzerland), 26-30 Ju
 [String-Math 2027](https://stringmath2027.phys.vt.edu)  
 Virginia Tech (US), 19-23 July 2027
 
+Integrability, Dualities and Deformations 2027   
+EPFL (Switzerland), 12-16 July 2027
+
+Young Researchers School on Category Theory Demystified    
+Masaryk University, Brno (Czech Republic), 5-9 July 2027
+
 String Pheno 2027  
 Oxford (UK), 5-9 July 2027
 
