@@ -12,6 +12,9 @@ KITP, UC Santa Barbara (USA), 27 September - 17 December 2027
 Supergravity 2027    
 Padova (Italy), 22-24 September 2027
 
+[Quantum Gravity 2027](https://www.thphys.uni-heidelberg.de/~qg2027/index.html)   
+Heidelberg (Germany), 13 - 17 September 2027
+
 Strings 2027  
 Hamburg (Germany), 6-10 September 2027
 
