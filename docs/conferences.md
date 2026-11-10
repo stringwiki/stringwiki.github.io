@@ -33,6 +33,9 @@ Durham University (UK), 26-30 July 2027
 [Observers, calculable models, and path integrals in cosmology](https://indico.epfl.ch/event/22/)  
 Bernoulli Center for Fundamental Studies, EPFL (Lausanne, Switzerland), 26-30 July 2027
 
+[Bootstrap 2027](https://indico.in2p3.fr/event/41391/)    
+Paris (France),  21 June — 02 July 2027
+
 [String-Math 2027](https://stringmath2027.phys.vt.edu)  
 Virginia Tech (US), 19-23 July 2027
 
