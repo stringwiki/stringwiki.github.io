@@ -13,7 +13,7 @@ Supergravity 2027
 Padova (Italy), 22-24 September 2027
 
 [Quantum Gravity 2027](https://www.thphys.uni-heidelberg.de/~qg2027/index.html)   
-Heidelberg (Germany), 13 - 17 September 2027
+Heidelberg (Germany), 13-17 September 2027
 
 Strings 2027  
 Hamburg (Germany), 6-10 September 2027
@@ -22,10 +22,10 @@ Eurostrings 2027
 Birmingham (UK), August 31 - September 3, 2027
 
 Bridging the Gap between Black Holes, Holography and the Swampland  
-MITP, Mainz (Germany), 16 August - 03 September 2027
+MITP, Mainz (Germany), 16 August - 3 September 2027
 
 Quantum Chaos: From Many-Body Dynamics to Black Holes   
-ICTP-SAIFR, São Paulo (Brazil), 23 August - 27 August 2027
+ICTP-SAIFR, São Paulo (Brazil), 23-27 August 2027
 
 Integrability in Gauge and String Theory 2027  
 Durham University (UK), 26-30 July 2027
@@ -34,7 +34,7 @@ Durham University (UK), 26-30 July 2027
 Bernoulli Center for Fundamental Studies, EPFL (Lausanne, Switzerland), 26-30 July 2027
 
 [Bootstrap 2027](https://indico.in2p3.fr/event/41391/)    
-Paris (France),  21 June — 02 July 2027
+Paris (France),  21 June — 2 July 2027
 
 [String-Math 2027](https://stringmath2027.phys.vt.edu)  
 Virginia Tech (US), 19-23 July 2027
@@ -55,13 +55,13 @@ CERN TH Institute on the Swampland
 CERN, Geneva (Switzerland), 14-18 June 2027  
 
 Lotus & Swamplandia 2027  
-Chamonix (France), 08-11 June 2027
-
-Swampland School  
-CERN, Geneva (Switzerland), 07-08 June 2027
+Chamonix (France), 8-11 June 2027
 
 Black Hole Bridges: Connecting Chaos, Topology and Number Theory  
 Institut Pascal, Orsay (France), 7-18 June 2027
+
+Swampland School  
+CERN, Geneva (Switzerland), 7-8 June 2027
 
 Strings, Symmetries, and Singularities  
 MITP, Mainz (Germany), 31 May - 4 June 2027
@@ -72,13 +72,13 @@ YITP, Kyoto (Japan), 24 May - 26 June 2027
 Strings and Geometry 2027    
 Peking University, Beijing (China), 11-14 May 2027
 
-[Thermal quantum fields, holography and black holes](https://www.ggi.infn.it/showevent.pl?id=565)  
-GGI, Florence (Italy), 5 April - 7 May 2027
-
 [French Strings Meeting 2027](https://indico.in2p3.fr/event/41129/)    
 Institut de Mathematiques de Bourgogne, April 27-29, 2027
 
-[Workshop on String Field Theory and related aspects](https://www.theorie.physik.uni-muenchen.de/activities/workshops/sft_2027/index.html)
+[Thermal quantum fields, holography and black holes](https://www.ggi.infn.it/showevent.pl?id=565)  
+GGI, Florence (Italy), 5 April - 7 May 2027
+
+[Workshop on String Field Theory and related aspects](https://www.theorie.physik.uni-muenchen.de/activities/workshops/sft_2027/index.html)    
 Arnold Sommerfeld Center for Theoretical Physics, Munich (Germany), April 5-9, 2027
 
 [CERN Winter School on Supergravity, Strings and Gauge Theory 2027](https://indico.cern.ch/event/1723862/)    
